@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "mocha": "^3.4.2"
+  },
+  "name": "rename-key",
+  "description": "rename object key",
+  "version": "0.1.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "keywords": [
+    "rename",
+    "key"
+  ],
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "monkindey",
+  "license": "MIT"
+}
